@@ -1,6 +1,6 @@
 การลงชื่อ
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --global user.email "you@example.com" /n
+git config --global user.name "Your Name" /n
 
 git init
 git add .
